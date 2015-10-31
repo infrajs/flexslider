@@ -1,0 +1,6 @@
+{
+	"name": "itlife/flexslider",
+	"autoload": {
+		"psr-4": { "itlife\\flexslider\\": "/" }
+	}
+}

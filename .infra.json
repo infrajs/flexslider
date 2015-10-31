@@ -1,0 +1,5 @@
+{
+	"flexslider":{
+		"require":"*flexslider/infra.php"
+	}
+}
