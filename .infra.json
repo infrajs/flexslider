@@ -1,5 +1,3 @@
 {
-	"flexslider":{
-		"require":"*flexslider/infra.php"
-	}
+	"js":["flexslider.js","infra.js"]
 }
